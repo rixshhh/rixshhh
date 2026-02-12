@@ -41,34 +41,28 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rixshhh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rixshhh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixshhh&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-## 🚀 Frontend
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
 
-## ⚙ Backend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄 Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-## 🔧 Tools & DevOps
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode" />
 </p>
