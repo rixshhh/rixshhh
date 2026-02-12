@@ -25,7 +25,7 @@
 # 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rixshh&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rixshhh&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 ---
