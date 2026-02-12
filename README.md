@@ -25,7 +25,7 @@
 # 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rixshh&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rixshhh&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
