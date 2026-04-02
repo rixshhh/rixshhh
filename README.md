@@ -15,11 +15,11 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github-trophies.vercel.app/?username=rixshhh" target="_blank">
     <img src="https://github-trophies.vercel.app/?username=rixshhh&theme=gotham&margin-w=4&margin-h=4" alt="GitHub Trophies">
   </a>
-</div>
+</div> -->
 
 <br>
 
@@ -50,6 +50,7 @@
           <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rixshhh&theme=gotham&hide_border=true" alt="Productive Time"/>
         </a>
       </td>
+      
     </tr>
   </tbody>
 </table>
